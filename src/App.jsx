@@ -5,7 +5,7 @@ function App() {
   
   return (
     <>
-      <ProductPage Changes/>
+      <ProductPage Changes1/>
       
     </>
   )
